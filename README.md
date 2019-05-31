@@ -17,4 +17,4 @@ There is option of creating a property file named as "config.properties" which c
 1. Input csv file name say "mycsvfile.csv" and need to specify property key as "fileName"
 2. And need to specify column key as "columnNumber" (which starts with index 0) say 11;
 
-Note : Test results with this tool on BigD urls looks good, but in case of any issues please write me at anand.pandey@trantorinc.com(email/skype)
+Note : Test results with this tool on BigD urls looks good, but in case of any issues please write me at pandeyanandsmvdu@gmail.com
